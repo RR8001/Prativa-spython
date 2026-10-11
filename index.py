@@ -1,1 +1,0 @@
-print("Make sure your actions doesnot hurt anyone around you because radharaman doesnot like that")
