@@ -10,8 +10,8 @@ print(num)
 # I have cheated here.
 guess = int(input("hey!! can  you guess a number"))
 if guess == num:
-    print("you guess is right brooo")
+    print("your guess is right brooo")
 else:
-    print("you guessed is wrong")
+    print("your guessed is wrong")
 
    
